@@ -528,6 +528,9 @@ hr {
   .tile.tile-❕❕ .tile-inner {
     color: #000000;
     background: #ff4b4b; }
+  .tile.tile-❕❕❕ .tile-inner {
+    color: #000000;
+    background: #ff8c8c; }
   .tile.tile-⍁ .tile-inner {
     color: #000000;
     background: #faff4e; }
@@ -552,6 +555,10 @@ hr {
   .tile.tile-〇 .tile-inner {
     color: #000000;
     background: #a52b00; }
+  .tile.tile-〇〇 .tile-inner {
+    color: #000000;
+    background: #691b00;
+    font-size: 24px; }
   .tile.tile-🌠 .tile-inner {
     color: #000000;
     background: #030346; }
@@ -570,12 +577,20 @@ hr {
   .tile.tile-✔️ .tile-inner {
     color: #4ef337;
     background: #a200ff; }
+  .tile.tile-✔️✔️ .tile-inner {
+    color: #4ef337;
+    background: #d283ff;
+    font-size: 20px; }
   .tile.tile-📈 .tile-inner {
     color: #000000;
     background: #98a8e3; }
   .tile.tile-📉 .tile-inner {
     color: #000000;
     background: #98a8e3; }
+  .tile.tile-📈📉 .tile-inner {
+    color: #000000;
+    background: #98a8e3;
+    font-size: 20px; }
   .tile.tile-📊 .tile-inner {
     color: #000000;
     background: #98a8e3; }
@@ -594,6 +609,10 @@ hr {
   .tile.tile-⦟ .tile-inner {
     color: #000000;
     background: #ff6b37; }
+  .tile.tile-⦟∠∟⦦−〇 .tile-inner {
+    color: #000000;
+    background: #e5460f;
+    font-size: 11px; }
   .tile.tile-❌ .tile-inner {
     color: #000000;
     background: #8700ff; }
@@ -720,6 +739,14 @@ hr {
     color: #000000;
     background: #b5e0f0;
     font-size: 20px; }
+  .tile.tile-38 .tile-inner {
+    color: #000000;
+    background: #b5e0f0;
+    font-size: 5px; }
+  .tile.tile-39 .tile-inner {
+    color: #000000;
+    background: #b5e0f0;
+    font-size: 39.5px; }
   .tile.tile-82 .tile-inner {
     color: #f1f7f9;
     background: #a98a74; }
@@ -729,6 +756,10 @@ hr {
   .tile.tile-8282 .tile-inner {
     color: #f1f7f9;
     background: #d5b6a0;
+    font-size: 22px; }
+  .tile.tile-8484 .tile-inner {
+    color: #ada76c;
+    background: #3e8522;
     font-size: 22px; }
   .tile.tile-super .tile-inner {
     color: #0309d1;
